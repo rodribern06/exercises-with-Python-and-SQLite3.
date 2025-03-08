@@ -1,0 +1,1 @@
+This is a repository for the final exercise of the SQLite3 course from the YouTube channel SoyDalto. I have added a chart showing the top sellers and the amount of money collected, using techniques demonstrated in the course such as subqueries, joins, groupings, views, etc.
